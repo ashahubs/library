@@ -1,13 +1,4 @@
 
-@tag
-Feature:shopping things
-  @tag1
-  Scenario:Login page
-    Given User can able to launch the url
-   
-   
-    Then user can able to click on the login button and it will navigate to the home page
-    
 
   @tag2
   Scenario Outline:home page
